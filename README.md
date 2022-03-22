@@ -8,7 +8,8 @@ Example uses default styles by RadioGroup<br><br>
 
 <strong>Installation</strong>:
 ```javascript
-npm install react-native-custom-radio-group --save
+Add on you package.json:
+"react-native-custom-radio-group": "https://github.com/bluedot-bd/react-native-custom-radio-group"
 ```
 <strong>Props</strong>:<br>
 * radioGroupList (<i>Required</i>) : An array of object; object => {label: '', value: ''}
